@@ -1,0 +1,10 @@
+C:\Users\carlo\RiderProjects\IPtoBinario\IPtoBinario\bin\Debug\IPtoBinario.exe.config
+C:\Users\carlo\RiderProjects\IPtoBinario\IPtoBinario\bin\Debug\IPtoBinario.exe
+C:\Users\carlo\RiderProjects\IPtoBinario\IPtoBinario\bin\Debug\IPtoBinario.pdb
+C:\Users\carlo\RiderProjects\IPtoBinario\IPtoBinario\obj\Debug\IPtoBinario.csproj.AssemblyReference.cache
+C:\Users\carlo\RiderProjects\IPtoBinario\IPtoBinario\obj\Debug\IPtoBinario.Properties.Resources.resources
+C:\Users\carlo\RiderProjects\IPtoBinario\IPtoBinario\obj\Debug\IPtoBinario.csproj.GenerateResource.cache
+C:\Users\carlo\RiderProjects\IPtoBinario\IPtoBinario\obj\Debug\IPtoBinario.csproj.CoreCompileInputs.cache
+C:\Users\carlo\RiderProjects\IPtoBinario\IPtoBinario\obj\Debug\IPtoBinario.exe
+C:\Users\carlo\RiderProjects\IPtoBinario\IPtoBinario\obj\Debug\IPtoBinario.pdb
+C:\Users\carlo\RiderProjects\IPtoBinario\IPtoBinario\obj\Debug\IPtoBinario.Form1.resources
