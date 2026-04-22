@@ -81,6 +81,7 @@ namespace IPtoBinario
             this.txtocteto4.Name = "txtocteto4";
             this.txtocteto4.Size = new System.Drawing.Size(201, 26);
             this.txtocteto4.TabIndex = 4;
+            this.txtocteto4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // btnConverter
             // 
