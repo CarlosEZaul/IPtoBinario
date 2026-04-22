@@ -56,8 +56,12 @@ namespace IPtoBinario
             binario = string.Empty;
 
             // Verifica se está vazio
-            if (string.IsNullOrWhiteSpace(texto)) return false;
-
+            if (string.IsNullOrWhiteSpace(texto))
+            {
+                return false;
+                
+            }
+            
             // Tenta converter texto para número inteiro
             if (int.TryParse(texto, out int numero))
             {
